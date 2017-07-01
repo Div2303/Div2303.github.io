@@ -513,7 +513,7 @@ body {
    background-image: none;
    border: 0px #000000 solid;
    height: 28px;
-   left: 414px;
+   left: 20px;
    margin: 0;
    padding: 0;
    position: absolute;
@@ -3250,7 +3250,7 @@ body {
 }
 #indexRollOver3 {
    height: 48px;
-   left: 411px;
+   left: 70px;
    overflow: hidden;
    position: absolute;
    top: 3402px;
@@ -3853,7 +3853,7 @@ body {
 }
 #wb_indexImage24 {
    height: 254px;
-   left: 449px;
+   left: 50px;
    position: absolute;
    top: 3251px;
    width: 313px;
@@ -4009,7 +4009,7 @@ body {
 }
 #wb_indexImage27 {
    height: 81px;
-   left: 403px;
+   left: 70px;
    position: absolute;
    top: 3395px;
    width: 242px;
