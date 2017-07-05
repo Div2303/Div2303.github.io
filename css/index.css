@@ -1585,55 +1585,55 @@ body {
    outline: 0;
 }
 #wb_indexText52 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px #000000 solid;
-   height: 32px;
-   left: 71px;
-   margin: 0;
-   padding: 0;
-   position: absolute;
-   text-align: left;
-   text-align: left;
-   top: 15px;
-   width: 106px;
-   z-index: 54;
+	background-color: transparent;
+	background-image: none;
+	border: 0px #000000 solid;
+	height: 32px;
+	left: 69px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-align: left;
+	text-align: left;
+	top: 10px;
+	width: 106px;
+	z-index: 54;
 }
 #wb_indexText52 div {
    text-align: left;
 }
 #wb_indexText53 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px #000000 solid;
-   height: 32px;
-   left: 71px;
-   margin: 0;
-   padding: 0;
-   position: absolute;
-   text-align: left;
-   text-align: left;
-   top: 53px;
-   width: 106px;
-   z-index: 55;
+	background-color: transparent;
+	background-image: none;
+	border: 0px #000000 solid;
+	height: 32px;
+	left: 69px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-align: left;
+	text-align: left;
+	top: 48px;
+	width: 106px;
+	z-index: 55;
 }
 #wb_indexText53 div {
    text-align: left;
 }
 #wb_indexText54 {
-   background-color: transparent;
-   background-image: none;
-   border: 0px #000000 solid;
-   height: 32px;
-   left: 71px;
-   margin: 0;
-   padding: 0;
-   position: absolute;
-   text-align: left;
-   text-align: left;
-   top: 93px;
-   width: 106px;
-   z-index: 56;
+	background-color: transparent;
+	background-image: none;
+	border: 0px #000000 solid;
+	height: 32px;
+	left: 69px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-align: left;
+	text-align: left;
+	top: 88px;
+	width: 106px;
+	z-index: 56;
 }
 #wb_indexText54 div {
    text-align: left;
@@ -2123,7 +2123,7 @@ body {
 	text-align: left;
 	text-align: left;
 	top: 7093px;
-	width: 496px;
+	width: 866px;
 	z-index: 171;
 }
 #wb_indexText74 div {
@@ -3357,9 +3357,9 @@ body {
    width: 100px;
 }
 #wb_uid85 {
-   color: #1A1A1A;
-   font-family: Segoe UI Semibold;
-   font-size: 15px;
+	color: #1A1A1A;
+	font-family: Segoe UI Semibold;
+	font-size: 25px;
 }
 #wb_indexImage2 {
    height: 50px;
@@ -3498,9 +3498,9 @@ body {
    font-size: 16px;
 }
 #wb_uid87 {
-   color: #1A1A1A;
-   font-family: Segoe UI Light;
-   font-size: 30px;
+	color: #1A1A1A;
+	font-family: Segoe UI Light;
+	font-size: 30px;
 }
 #wb_indexImage4 {
    height: 73px;
