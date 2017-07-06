@@ -2434,7 +2434,7 @@ body {
    position: absolute;
    text-align: center;
    text-align: center;
-   top: 270px;
+   top: 240px;
    width: 441px;
    z-index: 19;
 }
@@ -2466,7 +2466,7 @@ body {
    position: absolute;
    text-align: center;
    text-align: center;
-   top: 346px;
+   top: 310px;
    width: 441px;
    z-index: 22;
 }
@@ -3500,7 +3500,7 @@ body {
 #wb_uid87 {
 	color: #1A1A1A;
 	font-family: Segoe UI Light;
-	font-size: 30px;
+	font-size: 45px;
 }
 #wb_indexImage4 {
    height: 73px;
