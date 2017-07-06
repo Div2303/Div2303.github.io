@@ -2273,16 +2273,16 @@ body {
    text-align: right;
 }
 #MAP_3D {
-   background-color: transparent;
-   background-image: none;
-   height: 415px;
-   left: 0%;
-   min-width: 980px;
-   position: absolute;
-   text-align: left;
-   top: 11061px;
-   width: 100%;
-   z-index: 190;
+	background-color: transparent;
+	background-image: none;
+	height: 415px;
+	/*! left: 13px; */
+	min-width: 980px;
+	position: absolute;
+	text-align: left;
+	top: 7220px;
+	width: 100%;
+	z-index: 190;
 }
 #indexImage1 {
    border: 0px #000000 solid;
@@ -3813,7 +3813,7 @@ body {
 	height: 93%;
 	left: 0px;
 	position: absolute;
-	top: -3834px;
+	/*! top: -3834px; */
 	width: 100%;
 	z-index: 62;
 }
